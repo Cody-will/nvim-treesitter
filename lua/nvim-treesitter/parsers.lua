@@ -1046,6 +1046,14 @@ return {
     },
     tier = 1,
   },
+  kiln = {
+    install_info = {
+      revision = 'f412f5f164b8262af99dac58b2ac2fdf7eb637d0',
+      url = 'https://github.com/Cody-will/kiln',
+      location = 'editors/tree-sitter-kiln',
+    },
+    tier = 2,
+  },
   kitty = {
     install_info = {
       revision = '0e3eca6e786356bd37b1633f5e8b5a1c864333c1',

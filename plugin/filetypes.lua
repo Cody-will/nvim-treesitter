@@ -26,6 +26,7 @@ local filetypes = {
   javascript = { 'javascriptreact', 'ecma', 'ecmascript', 'jsx', 'js' },
   json = { 'jsonc' },
   glimmer_javascript = { 'javascript.glimmer' },
+  kiln = { 'kn' },
   latex = { 'tex' },
   linkerscript = { 'ld' },
   m68k = { 'asm68k' },
